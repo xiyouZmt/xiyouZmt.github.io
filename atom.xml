@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://119.29.181.219.com/"/>
   <updated>2017-06-05T09:48:39.292Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://119.29.181.219.com/</id>
   
   <author>
     <name>Mobile Coder</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/06/05/hello-world/"/>
-    <id>http://yoursite.com/2017/06/05/hello-world/</id>
+    <link href="http://119.29.181.219.com/2017/06/05/hello-world/"/>
+    <id>http://119.29.181.219.com/2017/06/05/hello-world/</id>
     <published>2017-06-05T09:48:39.285Z</published>
     <updated>2017-06-05T09:48:39.292Z</updated>
     
