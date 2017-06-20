@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://119.29.181.219/"/>
+  <link href="http://mobilecoder.me/"/>
   <updated>2017-06-09T06:42:59.448Z</updated>
-  <id>http://119.29.181.219/</id>
+  <id>http://mobilecoder.me/</id>
   
   <author>
     <name>Mobile Coder</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Test</title>
-    <link href="http://119.29.181.219/2017/06/09/Test/"/>
-    <id>http://119.29.181.219/2017/06/09/Test/</id>
+    <link href="http://mobilecoder.me/2017/06/09/Test/"/>
+    <id>http://mobilecoder.me/2017/06/09/Test/</id>
     <published>2017-06-09T06:36:43.000Z</published>
     <updated>2017-06-09T06:42:59.448Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="Test" scheme="http://119.29.181.219/categories/Test/"/>
+      <category term="Test" scheme="http://mobilecoder.me/categories/Test/"/>
     
     
-      <category term="Test" scheme="http://119.29.181.219/tags/Test/"/>
+      <category term="Test" scheme="http://mobilecoder.me/tags/Test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://119.29.181.219/2017/06/05/hello-world/"/>
-    <id>http://119.29.181.219/2017/06/05/hello-world/</id>
+    <link href="http://mobilecoder.me/2017/06/05/hello-world/"/>
+    <id>http://mobilecoder.me/2017/06/05/hello-world/</id>
     <published>2017-06-05T09:48:39.285Z</published>
     <updated>2017-06-09T07:41:34.172Z</updated>
     
@@ -62,12 +62,12 @@
     
     </summary>
     
-      <category term="first" scheme="http://119.29.181.219/categories/first/"/>
+      <category term="first" scheme="http://mobilecoder.me/categories/first/"/>
     
     
-      <category term="Hello World" scheme="http://119.29.181.219/tags/Hello-World/"/>
+      <category term="Hello World" scheme="http://mobilecoder.me/tags/Hello-World/"/>
     
-      <category term="Hello" scheme="http://119.29.181.219/tags/Hello/"/>
+      <category term="Hello" scheme="http://mobilecoder.me/tags/Hello/"/>
     
   </entry>
   
